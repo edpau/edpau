@@ -3,6 +3,8 @@
 
 [![portfolio](https://img.shields.io/badge/%3E__%20My%20Portfolio-%239FC131?style=for-the-badge)](https://edpau.me/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edwardpau/)
+![ViewCount](https://komarev.com/ghpvc/?username=edpau&style=for-the-badge&color=lightgrey)
+
 
 ## About me
 🇬🇧 Based in London.<br>
@@ -15,3 +17,4 @@
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,react,nextjs,vercel,angular,regex,nodejs,express,jest,jquery,prisma,mongodb,postgres,postman,docker,jest,figma,git&perline=11)](https://skillicons.dev)
 ## Streak Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=edpau&theme=transparent&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
