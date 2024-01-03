@@ -9,7 +9,7 @@
  🔧 Passionate problem solver, always ready to tackle challenges.<br>
  🗣️ Enthusiastic about sharing and communicating ideas with people.<br>
  🧭 Explorer of new territories, seeking growth at every turn.<br>
- 📚 Firm believer in the power of continuous learning.<br>
+ 📚 Firm believer in the power of continuous learning.<br><br>
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,react,nextjs,vercel,angular,regex,nodejs,express,jest,jquery,prisma,mongodb,postgres,postman,docker,jest,figma,git,&perline=11)](https://skillicons.dev)
