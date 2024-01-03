@@ -3,7 +3,7 @@
 
 
 [![portfolio](https://img.shields.io/badge/%3E__%20My%20Portfolio-%239FC131?style=for-the-badge)](https://edpau.me/)
-[![portfolio](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://edpau.me/](https://www.linkedin.com/in/edwardpau/))
+[![portfolio](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edwardpau/)
 
 
 
