@@ -6,14 +6,35 @@
 ![ViewCount](https://komarev.com/ghpvc/?username=edpau&style=for-the-badge&color=lightgrey)
 
 
-## About me
+## 🗣️ About me
 🇬🇧 Based in London.<br>
 🔧 Passionate problem solver, always ready to tackle challenges.<br>
 🗣️ Enthusiastic about sharing and communicating ideas with people.<br>
 🧭 Explorer of new territories, seeking growth at every turn.<br>
 📚 Firm believer in the power of continuous learning.
 
-## Skills
+## 🏆 Skills
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,react,nextjs,vercel,angular,redux,nodejs,express,jest,jquery,prisma,mongodb,postgres,postman,docker,figma,git&perline=11)](https://skillicons.dev)
+
+## 🔮 Projects
+
+  
+|Project                 | Tech                                             | Repo                                                                    | Link                                                              |
+|:-----------------------|:-------------------------------------------------|:------------------------------------------------------------------------|:------------------------------------------------------------------|
+| Age Calculator App     |  React, HTML, CSS                                | [Github](https://github.com/edpau/FM_age_calculator_app_react)          | [Demo](https://edpau.github.io/FM_age_calculator_app_react/)       | 
+| Blog Preview Card      |  Javascript, HTML CSS(BEM)                       | [Github](https://github.com/edpau/FM_Blog_preview_card)                 | [Demo](https://edpau.github.io/FM_Blog_preview_card/)               |
+| Results Summary Component|  HTML, CSS(BEM)                                | [Github](https://github.com/edpau/FM_Results_summary_component)         | [Demo](https://edpau.github.io/FM_Results_summary_component/)       |
+| Blog Preview Card      |  Javascript, HTML CSS(BEM)                       | [Github](https://github.com/edpau/FM_Blog_preview_card)                 | [Demo](https://edpau.github.io/FM_Blog_preview_card/)               |
+| Share A Smile App      | React, Vite, CSS, Express, MongoDB               | [Github](https://github.com/edpau/ShareASmile)                          | [Comming soon]
+  
+
+
+## 🎯 Work
+
+  
+|Work                    | Tech                                                     | Link                                                              |
+|:-----------------------|:---------------------------------------------------------|:------------------------------------------------------------------|
+| Health Boss App        |  Next.js, TypeScript, Tailwind, Prisma, MongoDB, Jest    | [Demo](https://health-boss.vercel.app)                                                                                                |
+| Servi Home Webpage     |  Next.js, TypeScript, Tailwind, Prisma, MongoDB          | [Demo](https://servihome-demo-miklyxs-projects.vercel.app)                                                                            
 
 
