@@ -24,7 +24,6 @@
 | Age Calculator App     |  React, HTML, CSS                                | [Github](https://github.com/edpau/FM_age_calculator_app_react)          | [Demo](https://edpau.github.io/FM_age_calculator_app_react/)       | 
 | Blog Preview Card      |  Javascript, HTML CSS(BEM)                       | [Github](https://github.com/edpau/FM_Blog_preview_card)                 | [Demo](https://edpau.github.io/FM_Blog_preview_card/)               |
 | Results Summary Component|  HTML, CSS(BEM)                                | [Github](https://github.com/edpau/FM_Results_summary_component)         | [Demo](https://edpau.github.io/FM_Results_summary_component/)       |
-| Blog Preview Card      |  Javascript, HTML CSS(BEM)                       | [Github](https://github.com/edpau/FM_Blog_preview_card)                 | [Demo](https://edpau.github.io/FM_Blog_preview_card/)               |
 | Share A Smile App      | React, Vite, CSS, Express, MongoDB               | [Github](https://github.com/edpau/ShareASmile)                          | [Comming soon]
   
 
