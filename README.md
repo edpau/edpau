@@ -11,7 +11,7 @@
 🔧 Passionate problem solver, always ready to tackle challenges.<br>
 🗣️ Enthusiastic about sharing and communicating ideas with people.<br>
 🧭 Explorer of new territories, seeking growth at every turn.<br>
-📚 Firm believer in the power of continuous learning.
+📚 Firm believer in the power of continuous learning.<br>
 P.S. 🇬🇧 UK citizen, visa not required.
 
 ## 🏆 Skills
