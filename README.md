@@ -17,6 +17,8 @@
 ## 🏆 Skills
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,react,nextjs,vercel,angular,redux,nodejs,express,jest,jquery,prisma,mongodb,postgres,postman,docker,figma,git&perline=11)](https://skillicons.dev)
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/edpau116)
+
 ## 🔮 Projects
 
   
