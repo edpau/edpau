@@ -35,9 +35,9 @@
 ## 🎯 Work
 
   
-|Work                    | Tech                                                     | Link                                                              |
-|:-----------------------|:---------------------------------------------------------|:------------------------------------------------------------------|
-| Health Boss App        |  Next.js, TypeScript, Tailwind, Prisma, MongoDB, Jest    | [Demo](https://health-boss.vercel.app)                                                                                                |
-| Servi Home Webpage     |  Next.js, TypeScript, Tailwind, Prisma, MongoDB          | [Demo](https://servihome-demo-miklyxs-projects.vercel.app)                                                                            
+|Work                    | Tech                                                     |
+|:-----------------------|:---------------------------------------------------------|
+| Health Boss App        |  Next.js, TypeScript, Tailwind, Prisma, MongoDB, Jest    |                                                                                             
+| Servi Home Webpage     |  Next.js, TypeScript, Tailwind, Prisma, MongoDB          |                                                                          
 
 
