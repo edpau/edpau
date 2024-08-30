@@ -24,7 +24,8 @@
   
 |Project                 | Tech                                             | Repo                                                                    | Link                                                              |
 |:-----------------------|:-------------------------------------------------|:------------------------------------------------------------------------|:------------------------------------------------------------------|
-| Recipe Page            |  Javascript, HTML, CSS(BEM), Responsive Design   | [Github](https://github.com/edpau/fm_recipe-page)                      | [Demo](https://edpau.github.io/fm_recipe-page/)                   |
+| Advice Generator APP   | JS, HTML, CSS(BEM), Rest API                     | [Github](https://github.com/edpau/fm_advise_generator_app)              | [Demo](https://edpau.github.io/fm_advise_generator_app/)          |
+| Recipe Page            |  Javascript, HTML, CSS(BEM), Responsive Design   | [Github](https://github.com/edpau/fm_recipe-page)                       | [Demo](https://edpau.github.io/fm_recipe-page/)                    |
 | Social Links Profile   | Javascript, HTML, CSS(Flexbox)                   | [Github](https://github.com/edpau/fm_social_links_profile_main)         | [Demo](https://edpau.github.io/fm_social_links_profile_main/)     |
 | Age Calculator App     |  React, HTML, CSS                                | [Github](https://github.com/edpau/FM_age_calculator_app_react)          | [Demo](https://edpau.github.io/FM_age_calculator_app_react/)      | 
 | Interactive rating component    |  Javascript, HTML, CSS(BEM)             | [Github](https://github.com/edpau/fm_interactive_rating_componentt_main) | [Demo](https://edpau.github.io/fm_interactive_rating_componentt_main/)       |
