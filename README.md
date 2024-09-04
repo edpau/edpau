@@ -24,14 +24,15 @@
   
 |Project                 | Tech                                             | Repo                                                                    | Link                                                              |
 |:-----------------------|:-------------------------------------------------|:------------------------------------------------------------------------|:------------------------------------------------------------------|
+| Product-Preview-Card-Component| React, Tailwind CSS, Responsive Design    | [Github](https://github.com/edpau/fm_product_preview_card_component)    | [Demo](https://edpau.github.io/fm_product_preview_card_component/)|
 | Advice Generator APP   | JS, HTML, CSS(BEM), REST API                     | [Github](https://github.com/edpau/fm_advise_generator_app)              | [Demo](https://edpau.github.io/fm_advise_generator_app/)          |
-| Recipe Page            |  Javascript, HTML, CSS(BEM), Responsive Design   | [Github](https://github.com/edpau/fm_recipe-page)                       | [Demo](https://edpau.github.io/fm_recipe-page/)                    |
+| Recipe Page            |  Javascript, HTML, CSS(BEM), Responsive Design   | [Github](https://github.com/edpau/fm_recipe-page)                       | [Demo](https://edpau.github.io/fm_recipe-page/)                   |
 | Social Links Profile   | Javascript, HTML, CSS(Flexbox)                   | [Github](https://github.com/edpau/fm_social_links_profile_main)         | [Demo](https://edpau.github.io/fm_social_links_profile_main/)     |
 | Age Calculator App     |  React, HTML, CSS                                | [Github](https://github.com/edpau/FM_age_calculator_app_react)          | [Demo](https://edpau.github.io/FM_age_calculator_app_react/)      | 
 | Interactive rating component    |  Javascript, HTML, CSS(BEM)             | [Github](https://github.com/edpau/fm_interactive_rating_componentt_main) | [Demo](https://edpau.github.io/fm_interactive_rating_componentt_main/)       |
 | Blog Preview Card      |  Javascript, HTML, CSS(BEM)                      | [Github](https://github.com/edpau/FM_Blog_preview_card)                | [Demo](https://edpau.github.io/FM_Blog_preview_card/)              |
-| Results Summary Component|  HTML, CSS(BEM)                                | [Github](https://github.com/edpau/FM_Results_summary_component)         | [Demo](https://edpau.github.io/FM_Results_summary_component/)      |
-| QR code component      | HTML, CSS(BEM)                                   | [Github](https://github.com/edpau/fm_qr-code-component)                 |  [Demo](https://edpau.github.io/fm_qr-code-component/)             | 
+| Results Summary Component|  HTML, CSS(BEM)                                | [Github](https://github.com/edpau/FM_Results_summary_component)         | [Demo](https://edpau.github.io/FM_Results_summary_component/)     |
+| QR code component      | HTML, CSS(BEM)                                   | [Github](https://github.com/edpau/fm_qr-code-component)                 |  [Demo](https://edpau.github.io/fm_qr-code-component/)            | 
 | Share A Smile App      | React, Vite, CSS, Express, MongoDB               | [Github](https://github.com/edpau/ShareASmile)                          | [Comming soon]
   
 
