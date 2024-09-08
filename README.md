@@ -24,6 +24,7 @@
   
 |Project                 | Tech                                             | Repo                                                                    | Link                                                              |
 |:-----------------------|:-------------------------------------------------|:------------------------------------------------------------------------|:------------------------------------------------------------------|
+| Four card feature section| HTML, CSS(BEM), CSS(Grid), Responsive Design   | [Github](https://github.com/edpau/fm_four-card-feature-section)         | [Demo](https://edpau.github.io/fm_four-card-feature-section/)     |
 | Product-Preview-Card-Component| React, Tailwind CSS, Responsive Design    | [Github](https://github.com/edpau/fm_product_preview_card_component)    | [Demo](https://edpau.github.io/fm_product_preview_card_component/)|
 | Advice Generator APP   | JS, HTML, CSS(BEM), REST API                     | [Github](https://github.com/edpau/fm_advise_generator_app)              | [Demo](https://edpau.github.io/fm_advise_generator_app/)          |
 | Recipe Page            |  Javascript, HTML, CSS(BEM), Responsive Design   | [Github](https://github.com/edpau/fm_recipe-page)                       | [Demo](https://edpau.github.io/fm_recipe-page/)                   |
