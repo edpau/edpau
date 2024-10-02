@@ -24,6 +24,7 @@
   
 |Project                 | Tech                                             | Repo                                                                    | Link                                                              |
 |:-----------------------|:-------------------------------------------------|:------------------------------------------------------------------------|:------------------------------------------------------------------|
+| Article preview component| TypeScript, HTML, CSS(BEM), CSS(Grid), Responsive Design | [Github](https://github.com/edpau/fm_article-preview-component) | [Demo](https://edpau.github.io/fm_article-preview-component/)   |
 | Meet landing page      | HTML, CSS(BEM), CSS(Grid), Responsive Design    | [Github](https://github.com/edpau/fm_meet_landing_page)                  | [Demo](https://edpau.github.io/fm_meet_landing_page/)             |                            
 | Testimonials grid section| React, Tailwind CSS, Responsive Design, CSS(Grid) | [Github](https://github.com/edpau/fm_testimonials_grid_section)       | [Demo](https://edpau.github.io/fm_testimonials_grid_section/)    |
 | Four card feature section| HTML, CSS(BEM), CSS(Grid), Responsive Design   | [Github](https://github.com/edpau/fm_four-card-feature-section)         | [Demo](https://edpau.github.io/fm_four-card-feature-section/)     |
