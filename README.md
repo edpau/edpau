@@ -24,6 +24,7 @@
   
 |Project                 | Tech                                             | Repo                                                                    | Link                                                              |
 |:-----------------------|:-------------------------------------------------|:------------------------------------------------------------------------|:------------------------------------------------------------------|
+| Newsletter sign-up form | TypeScript, HTML, CSS(BEM), CSS(Flexbox), Responsive Design| [Github](https://github.com/edpau/fm_newsletter-sign-up)     |  [Demo](https://edpau.github.io/fm_newsletter-sign-up/)           |
 | Article preview component| TypeScript, HTML, CSS(BEM), CSS(Grid), Responsive Design | [Github](https://github.com/edpau/fm_article-preview-component) | [Demo](https://edpau.github.io/fm_article-preview-component/)   |
 | Meet landing page      | HTML, CSS(BEM), CSS(Grid), Responsive Design    | [Github](https://github.com/edpau/fm_meet_landing_page)                  | [Demo](https://edpau.github.io/fm_meet_landing_page/)             |                            
 | Testimonials grid section| React, Tailwind CSS, Responsive Design, CSS(Grid) | [Github](https://github.com/edpau/fm_testimonials_grid_section)       | [Demo](https://edpau.github.io/fm_testimonials_grid_section/)    |
