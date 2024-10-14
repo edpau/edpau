@@ -24,7 +24,7 @@
   
 |Project                 | Tech                                             | Repo                                                                    | Link                                                              |
 |:-----------------------|:-------------------------------------------------|:------------------------------------------------------------------------|:------------------------------------------------------------------|
-| Time Tracjer Dashboard | TypeScript, HTML, CSS(BEM), CSS(Grid), Responsive Design| [Github](https://github.com/edpau/fm-time-tracking-dashboard)    |  [Demo](https://edpau.github.io/fm-time-tracking-dashboard/)      |
+| Time Tracking Dashboard | TypeScript, HTML, CSS(BEM), CSS(Grid), Responsive Design| [Github](https://github.com/edpau/fm-time-tracking-dashboard)    |  [Demo](https://edpau.github.io/fm-time-tracking-dashboard/)      |
 | Newsletter sign-up form | TypeScript, HTML, CSS(BEM), CSS(Flexbox), Responsive Design| [Github](https://github.com/edpau/fm_newsletter-sign-up)     |  [Demo](https://edpau.github.io/fm_newsletter-sign-up/)           |
 | Article preview component| TypeScript, HTML, CSS(BEM), CSS(Grid), Responsive Design | [Github](https://github.com/edpau/fm_article-preview-component) | [Demo](https://edpau.github.io/fm_article-preview-component/)   |
 | Meet landing page      | HTML, CSS(BEM), CSS(Grid), Responsive Design    | [Github](https://github.com/edpau/fm_meet_landing_page)                  | [Demo](https://edpau.github.io/fm_meet_landing_page/)             |                            
