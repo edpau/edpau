@@ -24,6 +24,7 @@
   
 |Project                 | Tech                                             | Repo                                                                    | Link                                                              |
 |:-----------------------|:-------------------------------------------------|:------------------------------------------------------------------------|:------------------------------------------------------------------|
+| Tip-calculator-app      | TypeScript, HTML, CSS(BEM), CSS(Grid), Responsive Design | [Github](https://github.com/edpau/fm_tip-calculator-app)        |  [Demo](https://edpau.github.io/fm_tip-calculator-app/)           |
 | Time Tracking Dashboard | TypeScript, HTML, CSS(BEM), CSS(Grid), Responsive Design| [Github](https://github.com/edpau/fm-time-tracking-dashboard)    |  [Demo](https://edpau.github.io/fm-time-tracking-dashboard/)      |
 | Newsletter sign-up form | TypeScript, HTML, CSS(BEM), CSS(Flexbox), Responsive Design| [Github](https://github.com/edpau/fm_newsletter-sign-up)     |  [Demo](https://edpau.github.io/fm_newsletter-sign-up/)           |
 | Article preview component| TypeScript, HTML, CSS(BEM), CSS(Grid), Responsive Design | [Github](https://github.com/edpau/fm_article-preview-component) | [Demo](https://edpau.github.io/fm_article-preview-component/)   |
