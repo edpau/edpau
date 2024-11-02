@@ -24,7 +24,7 @@
   
 |Project                 | Tech                                             | Repo                                                                    | Link                                                              |
 |:-----------------------|:-------------------------------------------------|:------------------------------------------------------------------------|:------------------------------------------------------------------|
-| Contact Form            | React, React Hook Form, Tailwind CSS, TypeScript | [Github](https://github.com/edpau/fm_contact-form)                      |  [Demo](https://edpau.github.io/fm_contact-form/)                |
+| Contact Form            | React, React Hook Form, Tailwind CSS, TypeScript, accessibility | [Github](https://github.com/edpau/fm_contact-form)                      |  [Demo](https://edpau.github.io/fm_contact-form/)                |
 | Tip-calculator-app      | TypeScript, HTML, CSS(BEM), CSS(Grid), Responsive Design | [Github](https://github.com/edpau/fm_tip-calculator-app)        |  [Demo](https://edpau.github.io/fm_tip-calculator-app/)           |
 | Time Tracking Dashboard | TypeScript, HTML, CSS(BEM), CSS(Grid), Responsive Design| [Github](https://github.com/edpau/fm-time-tracking-dashboard)    |  [Demo](https://edpau.github.io/fm-time-tracking-dashboard/)      |
 | Newsletter sign-up form | TypeScript, HTML, CSS(BEM), CSS(Flexbox), Responsive Design| [Github](https://github.com/edpau/fm_newsletter-sign-up)     |  [Demo](https://edpau.github.io/fm_newsletter-sign-up/)           |
