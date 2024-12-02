@@ -24,8 +24,8 @@
   
 |Project                 | Tech                                             | Repo                                                                    | Link                                                              |
 |:-----------------------|:-------------------------------------------------|:------------------------------------------------------------------------|:------------------------------------------------------------------|
-| Todo App                | React, Tailwind CSS, dnd kit, Jest, React Testing library, accessibility | [Github](https://github.com/edpau/fm_todo-app)  | [Demo](https://fm-todo-app-six.vercel.app)                       |
-| Contact Form            | React, React Hook Form, Tailwind CSS, TypeScript, accessibility | [Github](https://github.com/edpau/fm_contact-form)       |  [Demo](https://edpau.github.io/fm_contact-form/)                |
+| Todo App                | React, Tailwind CSS, dnd kit, Jest, React Testing Library, Accessibility | [Github](https://github.com/edpau/fm_todo-app)  | [Demo](https://fm-todo-app-six.vercel.app)                       |
+| Contact Form            | React, React Hook Form, Tailwind CSS, TypeScript, Accessibility | [Github](https://github.com/edpau/fm_contact-form)       |  [Demo](https://edpau.github.io/fm_contact-form/)                |
 | Tip-calculator-app      | TypeScript, HTML, CSS(BEM), CSS(Grid), Responsive Design | [Github](https://github.com/edpau/fm_tip-calculator-app)        |  [Demo](https://edpau.github.io/fm_tip-calculator-app/)          |
 | Time Tracking Dashboard | TypeScript, HTML, CSS(BEM), CSS(Grid), Responsive Design| [Github](https://github.com/edpau/fm-time-tracking-dashboard)    |  [Demo](https://edpau.github.io/fm-time-tracking-dashboard/)     |
 | Newsletter sign-up form | TypeScript, HTML, CSS(BEM), CSS(Flexbox), Responsive Design| [Github](https://github.com/edpau/fm_newsletter-sign-up)     |  [Demo](https://edpau.github.io/fm_newsletter-sign-up/)           |
