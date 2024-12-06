@@ -43,7 +43,11 @@
 | Results Summary Component|  HTML, CSS(BEM)                                | [Github](https://github.com/edpau/FM_Results_summary_component)         | [Demo](https://edpau.github.io/FM_Results_summary_component/)     |
 | QR code component      | HTML, CSS(BEM)                                   | [Github](https://github.com/edpau/fm_qr-code-component)                 |  [Demo](https://edpau.github.io/fm_qr-code-component/)            | 
 | Share A Smile App      | React, Vite, CSS, Express, MongoDB               | [Github](https://github.com/edpau/ShareASmile)                          | [Comming soon]
-  
+
+
+## 💡 Learning
+|Topic                | Tech                                             | Repo                                                                    | Link                                                              |
+|Intersection Observer API| JS, HTML                                     | [Github](https://github.com/edpau/learning_intersection-observer-api)                          | [Demo](https://edpau.github.io/learning_intersection-observer-api/)             |
 
 
 ## 🎯 Work
