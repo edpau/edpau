@@ -47,7 +47,8 @@
 
 ## 💡 Learning
 |Topic                | Tech                                             | Repo                                                                    | Link                                                              |
-|Intersection Observer API| JS, HTML                                     | [Github](https://github.com/edpau/learning_intersection-observer-api)                          | [Demo](https://edpau.github.io/learning_intersection-observer-api/)             |
+|:-----------------------|:-------------------------------------------------|:------------------------------------------------------------------------|:------------------------------------------------------------------|
+|Intersection Observer API| JS, HTML                                     | [Github](https://github.com/edpau/learning_intersection-observer-api)      | [Demo](https://edpau.github.io/learning_intersection-observer-api/) |
 
 
 ## 🎯 Work
