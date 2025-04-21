@@ -1,5 +1,5 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Edward Pau
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=700&size=24&pause=1000&color=006AFF&random=false&width=435&lines=Front+End+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=700&size=24&pause=1000&color=006AFF&random=false&width=435&lines=Full-stack+Software+Engineer)](https://git.io/typing-svg)
 
 [![portfolio](https://img.shields.io/badge/%3E__%20My%20Portfolio-%239FC131?style=for-the-badge)](https://edpau.me/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edwardpau/)
