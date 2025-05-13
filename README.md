@@ -24,6 +24,7 @@
   
 |Project                 | Tech                                             | Repo                                                                    | Link                                                              |
 |:-----------------------|:-------------------------------------------------|:------------------------------------------------------------------------|:------------------------------------------------------------------|
+| Snap Game              | Java, TDD                                        | [Github](https://github.com/edpau/no_cardGame_snap)                      | NA                                                               |
 | Tank Game              | TypeScript, HTML, SCSS(BEM), CSS(Grid), Responsive Design| [Github](https://github.com/edpau/no_game)                      | [Demo](https://edpau.github.io/no_game/)                          |
 | Todo App                | React, Tailwind CSS, dnd kit, Jest, React Testing Library, Accessibility | [Github](https://github.com/edpau/fm_todo-app)  | [Demo](https://fm-todo-app-six.vercel.app)                       |
 | Contact Form            | React, React Hook Form, Tailwind CSS, TypeScript, Accessibility | [Github](https://github.com/edpau/fm_contact-form)       |  [Demo](https://edpau.github.io/fm_contact-form/)                |
