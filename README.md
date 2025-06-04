@@ -24,7 +24,7 @@
   
 |Project                 | Tech                                             | Repo                                                                    | Link                                                              |
 |:-----------------------|:-------------------------------------------------|:------------------------------------------------------------------------|:------------------------------------------------------------------|
-| Car Rental Services (Group Project)| Java, Spring Boot, MySQL, HTML, CSS(BEM) | [Front-end](https://github.com/ash-digit/car_rental_fe), [Back-end](https://github.com/ash-digit/car_rental_be)| [Demo](https://ash-digit.github.io/car_rental_fe/) |
+| Car Rental Services (Group Project)| Java, Spring Boot, MySQL, HTML, CSS(BEM), TypeScript | [Front-end](https://github.com/ash-digit/car_rental_fe), [Back-end](https://github.com/ash-digit/car_rental_be)| [Demo](https://ash-digit.github.io/car_rental_fe/) |
 | Snap Game              | Java, TDD                                        | [Github](https://github.com/edpau/no_cardGame_snap)                      | NA                                                               |
 | Tank Game              | TypeScript, HTML, SCSS(BEM), CSS(Grid), Responsive Design| [Github](https://github.com/edpau/no_game)                      | [Demo](https://edpau.github.io/no_game/)                          |
 | Todo App                | React, Tailwind CSS, dnd kit, Jest, React Testing Library, Accessibility | [Github](https://github.com/edpau/fm_todo-app)  | [Demo](https://fm-todo-app-six.vercel.app)                       |
