@@ -58,6 +58,8 @@
 |Topic                   | Tech                                             | Repo                                                                    | Link                                                              |
 |:-----------------------|:-------------------------------------------------|:------------------------------------------------------------------------|:------------------------------------------------------------------|
 |cs-learn-integers       | C# (.NET Console)                                | [Github](https://github.com/edpau/cs-learn-integers)                    | N/A                                                               |
+|cs-learn-floatingPoint  | C# (.NET Console)                                | [Github](https://github.com/edpau/cs-learn-floatingPoint)               | N/A                                                               |
+
 
 
 
