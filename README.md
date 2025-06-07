@@ -25,7 +25,7 @@
 |Project                 | Tech                                             | Repo                                                                    | Link                                                              |
 |:-----------------------|:-------------------------------------------------|:------------------------------------------------------------------------|:------------------------------------------------------------------|
 | Car Rental Services (Group Project)| Java, Spring Boot, MySQL, HTML, CSS(BEM), TypeScript | [Front-end](https://github.com/ash-digit/car_rental_fe), [Back-end](https://github.com/ash-digit/car_rental_be)| [Demo](https://ash-digit.github.io/car_rental_fe/) |
-| Snap Game              | Java, TDD                                        | [Github](https://github.com/edpau/no_cardGame_snap)                      | NA                                                               |
+| Snap Game              | Java, TDD                                        | [Github](https://github.com/edpau/no_cardGame_snap)                      | N/A                                                               |
 | Tank Game              | TypeScript, HTML, SCSS(BEM), CSS(Grid), Responsive Design| [Github](https://github.com/edpau/no_game)                      | [Demo](https://edpau.github.io/no_game/)                          |
 | Todo App                | React, Tailwind CSS, dnd kit, Jest, React Testing Library, Accessibility | [Github](https://github.com/edpau/fm_todo-app)  | [Demo](https://fm-todo-app-six.vercel.app)                       |
 | Contact Form            | React, React Hook Form, Tailwind CSS, TypeScript, Accessibility | [Github](https://github.com/edpau/fm_contact-form)       |  [Demo](https://edpau.github.io/fm_contact-form/)                |
@@ -53,6 +53,12 @@
 |Topic                | Tech                                             | Repo                                                                    | Link                                                              |
 |:-----------------------|:-------------------------------------------------|:------------------------------------------------------------------------|:------------------------------------------------------------------|
 |Intersection Observer API| JS, HTML                                     | [Github](https://github.com/edpau/learning_intersection-observer-api)      | [Demo](https://edpau.github.io/learning_intersection-observer-api/) |
+
+### 🔷 C#
+|Topic                   | Tech                                             | Repo                                                                    | Link                                                              |
+|:-----------------------|:-------------------------------------------------|:------------------------------------------------------------------------|:------------------------------------------------------------------|
+|cs-learn-integers       | C# (.NET Console)                                | [Github](https://github.com/edpau/cs-learn-integers)                    | N/A                                                               |
+
 
 
 ## 🎯 Work
