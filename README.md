@@ -61,6 +61,7 @@
 |cs-learn-floatingPoint  | C# (.NET Console)                                | [Github](https://github.com/edpau/cs-learn-floatingPoint)               | N/A                                                               |
 |cs-learn-arrays         | C# (.NET Console)                                | [Github](https://github.com/edpau/cs-learn-arrays)                      | N/A                                                               |
 |cs-learn-ForLoopsFunctions | C# (.NET Console)                             | [Github](https://github.com/edpau/cs-learn-ForLoopsFunctions)           | N/A                                                               |
+|cs-learn-Class-Checkerboard | C# (.NET Console)                             | [Github](https://github.com/edpau/cs-learn-Class-Checkerboard)         | N/A                                                               |
 
 
 
