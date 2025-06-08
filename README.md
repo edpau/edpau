@@ -15,7 +15,7 @@
 🇬🇧 UK citizen, visa not required.
 
 ## 🏆 Skills
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,tailwind,react,remix,nextjs,vercel,angular,redux,nodejs,express,jest,jquery,prisma,mongodb,postgres,postman,docker,figma,git&perline=11)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,ts,html,css,sass,tailwind,react,remix,nextjs,vercel,nodejs,express,jest,jquery,prisma,mysql,mongodb,postman,docker,figma,git&perline=11)](https://skillicons.dev)
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/edpau116)
 
